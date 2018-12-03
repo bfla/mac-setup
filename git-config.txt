@@ -1,0 +1,13 @@
+credential.helper=osxkeychain
+user.name=Brian
+user.email=brianflaherty64@gmail.com
+color.ui=true
+github.user=bfla
+credential.helper=osxkeychain
+push.default=current
+filter.media.required=true
+filter.media.clean=git media clean %f
+filter.media.smudge=git media smudge %f
+filter.lfs.clean=git lfs clean %f
+filter.lfs.smudge=git lfs smudge %f
+filter.lfs.required=true
